@@ -112,6 +112,8 @@ Evaluation scripts and some test samples
 
 
 
+Trained model's weights can be found here : 
+https://drive.google.com/drive/folders/1t7sBwfCI_Q4Uef3x4D7GfwPIdJZAuzV4?dmr=1&ec=wgc-drive-hero-goto
 
 
 
