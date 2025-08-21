@@ -115,8 +115,12 @@ Evaluation scripts and some test samples
 Trained model's weights can be found here : 
 https://drive.google.com/drive/folders/1t7sBwfCI_Q4Uef3x4D7GfwPIdJZAuzV4?dmr=1&ec=wgc-drive-hero-goto
 
+Training the model : 
+python ajke_parbo.py --dataset_path ~/messed_up/broken_car_signal_plans.jsonl \
+  --output_dir  ~/messed_up/llama3_8b_run1
 
-
+Testing the model : 
+python test.py
 
 
 
